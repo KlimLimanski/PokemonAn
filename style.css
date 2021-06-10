@@ -190,7 +190,7 @@ section {
 }
 
 .vidos:hover {
-    margin: 0px 150px 0px 90px;
+    margin: 0px 300px 0px 300px;
     transform: scale(1.09);
     filter: grayscale(.0);
 }
