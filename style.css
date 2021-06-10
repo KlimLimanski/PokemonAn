@@ -161,13 +161,13 @@ section {
         section:hover {
           opacity: 0.9;
         }
-        iframe {
+       .vidos {
     margin: 0px 150px 0px 90px;
     transform: scale(1);
     filter: grayscale(.75);
     transition: all 3s linear;
 }
-iframe:hover {
+.vidos:hover {
     margin: 0px 150px 0px 90px;
     transform: scale(1.09);
     filter: grayscale(.0);
