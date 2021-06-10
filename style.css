@@ -183,7 +183,7 @@ section {
         }
 
 .vidos {
-    margin: 0px 150px 0px 90px;
+    margin: 0px 300px 0px 300px;
     transform: scale(1);
     filter: grayscale(.75);
     transition: all 3s linear;
